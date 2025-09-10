@@ -9,4 +9,3 @@ plotly
 nltk
 flashtext
 gensim
-scipy
