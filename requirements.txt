@@ -1,0 +1,11 @@
+# requirements.txt (Final Version without hazm)
+pandas
+scikit-learn
+joblib
+tensorflow
+dash
+dash-bootstrap-components
+plotly
+nltk
+flashtext
+gensim

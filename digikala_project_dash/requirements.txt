@@ -1,0 +1,8 @@
+# requirements.txt (Final Pure Python Version)
+pandas
+scikit-learn
+joblib
+tensorflow
+dash
+dash-bootstrap-components
+plotly
